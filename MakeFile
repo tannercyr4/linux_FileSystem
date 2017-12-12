@@ -1,0 +1,2 @@
+all:
+    gcc -g -o ZTFS main.c fs.c fs.h types.h
